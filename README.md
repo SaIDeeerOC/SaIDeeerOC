@@ -18,6 +18,14 @@ ________________________________________________________________________________
   <img src="https://i.pinimg.com/originals/5b/40/d7/5b40d7b8c626e62a663c3b0e719b0329.gif"/>
 </div>
 
+## 📊 My stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaIDeeerOC&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaIDeeerOC&theme=synthwave" alt="GitHub Streak" />
+</p>
+
 ___________________________________________________________________________________________________
 
 * 🌍 I'm based in Russia
