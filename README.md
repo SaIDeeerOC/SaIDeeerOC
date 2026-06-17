@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________
 
-* 🌍 I'm based in Russia / Nadym
+* 🌍 I'm based in Russia
 * ✉️  You can contact me at [saidermilijery143@bk.ru](mailto:saidermilijery143@bk.ru)
 * 🧠  I'm currently learning in-depth Python
 * 💬  Ask me about This is my first profile edit, so don't judge me too harshly
