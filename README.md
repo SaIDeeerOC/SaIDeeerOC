@@ -20,11 +20,16 @@ ________________________________________________________________________________
 
 ## 📊 My stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaIDeeerOC&show_icons=true&theme=synthwave" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaIDeeerOC&theme=synthwave" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SaIDeeerOC&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="380" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaIDeeerOC&theme=synthwave&hide_border=true" alt="GitHub Streak" width="380" />
+    </td>
+  </tr>
+</table>
 
 ___________________________________________________________________________________________________
 
