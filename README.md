@@ -31,6 +31,9 @@ ________________________________________________________________________________
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaIDeeerOC&color=a855f7&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
+</p>
 ___________________________________________________________________________________________________
 
 * 🌍 I'm based in Russia
