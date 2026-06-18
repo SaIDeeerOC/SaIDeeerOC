@@ -22,11 +22,11 @@ ________________________________________________________________________________
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SaIDeeerOC&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="380" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SaIDeeerOC&show_icons=true&theme=synthwave&hide_border=true" width="100%" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaIDeeerOC&theme=synthwave&hide_border=true" alt="GitHub Streak" width="380" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaIDeeerOC&theme=synthwave&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
