@@ -35,7 +35,8 @@ ________________________________________________________________________________
   <img src="https://komarev.com/ghpvc/?username=SaIDeeerOC&color=a855f7&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
 </p>
 
-
+## 🚀 My main projects:
+[![My First Antivirus](https://github-readme-stats.vercel.app/api/pin/?username=SaIDeeerOC&repo=My-first-antivirus&theme=synthwave)](https://github.com/SaIDeeerOC/My-first-antivirus)
 ___________________________________________________________________________________________________
 * 🌍 I'm based in Russia
 * ✉️  You can contact me at [saidermilijery143@bk.ru](mailto:saidermilijery143@bk.ru)
