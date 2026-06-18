@@ -34,8 +34,9 @@ ________________________________________________________________________________
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaIDeeerOC&color=a855f7&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
 </p>
-___________________________________________________________________________________________________
 
+
+___________________________________________________________________________________________________
 * 🌍 I'm based in Russia
 * ✉️  You can contact me at [saidermilijery143@bk.ru](mailto:saidermilijery143@bk.ru)
 * 🧠  I'm currently learning in-depth Python
