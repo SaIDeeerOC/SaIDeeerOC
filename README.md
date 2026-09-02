@@ -9,7 +9,7 @@
 ## Through life: A schoolboy and a future programmer
 
 ### 👨‍💻 A little bit about yourself:
-> At the age of 11, I developed a passion for a career in software testing. From the age of 13, I began learning programming, which is where I discovered and mastered development tools such as Visual Studio Code. This experience marked the beginning of my professional journey, shaping my goals and competencies in the field of information technology.
+At the age of 11, I developed a passion for a career in software testing. From the age of 13, I began learning programming, which is where I discovered and mastered development tools such as Visual Studio Code. This experience marked the beginning of my professional journey, shaping my goals and competencies in the field of information technology.
 
 ----
 
