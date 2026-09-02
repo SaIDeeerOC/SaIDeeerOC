@@ -19,25 +19,28 @@ At the age of 11, I developed a passion for a career in software testing. From t
 
 -----
 
-## 🏆 Мои достижения
+## 🏆 My Achievements / Мои достижения
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="images/geniy_yamala.jpg" alt="Сертификат Гений Ямала" width="300" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-        <br/><b>🏅 Сертификат «Гений Ямала»</b><br/>
-        <span style="font-size: 14px; color: #a855f7;">МОУ СОШ №9, 2025</span>
+        <br/><b>🏅 Сертификат «Гений Ямала»</b>
+        <br/><span style="font-size: 14px; color: #a855f7;">МОУ СОШ №9, 2026</span>
+        <br/><span style="font-size: 12px; color: #cccccc;">"Genius of Yamal" Certificate — School No. 9, 2026</span>
       </td>
       <td align="center">
         <img src="images/start_v_nauku.jpg" alt="Диплом Старт в науку" width="300" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-        <br/><b>🔬 Диплом «Старт в науку»</b><br/>
-        <span style="font-size: 14px; color: #a855f7;">Научно-практическая конференция</span>
+        <br/><b>🔬 Диплом «Старт в науку»</b>
+        <br/><span style="font-size: 14px; color: #a855f7;">Научно-практическая конференция</span>
+        <br/><span style="font-size: 12px; color: #cccccc;">"Start in Science" Diploma — Scientific and Practical Conference</span>
       </td>
       <td align="center">
         <img src="images/kod_budushego_page-0001.jpg" alt="Сертификат Код Будущего" width="300" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-        <br/><b>💻 Сертификат «Код Будущего»</b><br/>
-        <span style="font-size: 14px; color: #a855f7;">Python, 144 часа, Университет «Синергия»</span>
+        <br/><b>💻 Сертификат «Код Будущего»</b>
+        <br/><span style="font-size: 14px; color: #a855f7;">Python, 144 часа, Университет «Синергия»</span>
+        <br/><span style="font-size: 12px; color: #cccccc;">"Code of the Future" Certificate — Python, 144 hours, Synergy University</span>
       </td>
     </tr>
   </table>
@@ -109,12 +112,11 @@ At the age of 11, I developed a passion for a career in software testing. From t
 
 ### Социальные сети:
 
-<p align="left"> 
-  <a href="https://www.github.com/SaIDeeerOC" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> 
-    </picture> 
+<p align="left">
+  <a href="https://www.github.com/SaIDeeerOC" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" style="border-radius: 50%; background: #333; padding: 8px;" alt="GitHub" title="GitHub"/>
+  </a>
+  <a href="https://t.me/opsggwp" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/telegram/ffffff" width="40" height="40" style="border-radius: 50%; background: #26A5E4; padding: 8px;" alt="Telegram" title="Telegram"/>
   </a>
 </p>
