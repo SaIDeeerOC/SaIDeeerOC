@@ -19,7 +19,7 @@ At the age of 11, I developed a passion for a career in software testing. From t
 
 -----
 
-## 🏆 My Achievements / Мои достижения
+## 🏆 My Achievements / Мои достижения:
 
 <div align="center">
   <table>
@@ -48,13 +48,10 @@ At the age of 11, I developed a passion for a career in software testing. From t
 
 -----------------------
 
-## 📊 My stats:
+## 📊 My stats / Моя статистика:
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SaIDeeerOC&show_icons=true&theme=synthwave&hide_border=true&t=123" width="100%" />
-    </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaIDeeerOC&theme=synthwave&hide_border=true&t=123" width="100%" />
     </td>
@@ -67,11 +64,11 @@ At the age of 11, I developed a passion for a career in software testing. From t
 
 -------
 
-## 🚀 My main projects:
+## 🚀 My main projects / Мои главные проекты:
 
 <div align="center">
 
-### 🛡️ Мой первый антивирус
+### 🛡️ My first antivirus / Мой первый антивирус
 
 [![GitHub stars](https://img.shields.io/github/stars/SaIDeeerOC/My-first-antivirus?style=social)](https://github.com/SaIDeeerOC/My-first-antivirus)
 [![GitHub forks](https://img.shields.io/github/forks/SaIDeeerOC/My-first-antivirus?style=social)](https://github.com/SaIDeeerOC/My-first-antivirus)
@@ -90,7 +87,7 @@ At the age of 11, I developed a passion for a career in software testing. From t
 
 -----
 
-## 🌍 Контакты и факты
+## 🌍 Contacts and facts / Контакты и факты:
 
 - 🌍 I'm based in Russia  
 - ✉️ You can contact me at [saidermilijery143@bk.ru](mailto:saidermilijery143@bk.ru)  
@@ -99,7 +96,7 @@ At the age of 11, I developed a passion for a career in software testing. From t
 
 ------
 
-### 🛠️ Skills:
+### 🛠️ Skills / Навыки:
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
@@ -110,7 +107,7 @@ At the age of 11, I developed a passion for a career in software testing. From t
 
 ----------
 
-### Социальные сети:
+### Socials / Социальные сети:
 
 <p align="left">
   <a href="https://www.github.com/SaIDeeerOC" target="_blank" rel="noreferrer" style="margin-right: 15px;">
@@ -120,3 +117,5 @@ At the age of 11, I developed a passion for a career in software testing. From t
     <img src="https://cdn.simpleicons.org/telegram/ffffff" width="40" height="40" style="border-radius: 50%; background: #26A5E4; padding: 8px;" alt="Telegram" title="Telegram"/>
   </a>
 </p>
+
+![Змейка](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
