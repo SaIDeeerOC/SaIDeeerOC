@@ -84,7 +84,7 @@ At the age of 11, I developed a passion for a career in software testing. From t
 </p>
 
 <p align="center">
-  <code>Python</code> · <code>PyQt5</code> · <code>os</code> · <code>shutil</code>
+  <code>Python</code> · <code>os</code> · <code>shutil</code>
 </p>
 
 </div>
