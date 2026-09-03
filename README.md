@@ -1,4 +1,8 @@
-# Hello, my name is Sadig Mamedov
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sadig+Mamedov!;Junior+Python+Developer;Bug+Destroyer;Future+Tech+Lead&font=Fira%20Code&center=true&width=600&height=60&color=ffffff&vCenter=true&size=40&weight=700">
+</p>
+
+----
 
 <div align="center">
   <img src="https://64.media.tumblr.com/728cf21657c5e41c4806f3667e735dc3/7bdb6c2b53dbcbea-f8/s1280x1920/5dd09ca5e7581bd497a70418c40f5a62bf18caa8.gif"/>
@@ -98,13 +102,9 @@ At the age of 11, I developed a passion for a career in software testing. From t
 
 ### 🛠️ Skills / Навыки:
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
-</p>
-
+| Python | HTML | CSS | VS Code |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60"/> |
 ----------
 
 ### Socials / Социальные сети:
