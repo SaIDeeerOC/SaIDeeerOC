@@ -1,4 +1,5 @@
-----
+![Pac-Man](images/загруженное.gif)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sadig+Mamedov!;Junior+Python+Developer;Bug+Destroyer;Future+Tech+Lead&font=Fira%20Code&center=true&width=600&height=60&color=ffffff&vCenter=true&size=40&pause=1050&weight=700">
 </p>
